@@ -1,0 +1,2 @@
+class EmptyOptionException(Exception):
+    pass

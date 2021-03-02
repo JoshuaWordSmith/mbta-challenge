@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "numerated-challenge"
+version = "0.1.0"
+description = "coding challenge for numerated"
+authors = ["Joshua Smith <joshuawordsmith@gmail.com>"]
+
+[tool.poetry.dependencies]
+python = "^3.7"
+requests = "^2.25"
+
+[tool.poetry.dev-dependencies]
+black = {version = "^18.3-alpha.0", allows-prereleases = true}
+pytest = "^6.2"
+pytest-cov = "^2.11"
+[build-system]
+requires = ["poetry>=0.12"]
+build-backend = "poetry.masonry.api"
