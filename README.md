@@ -1,8 +1,8 @@
 # Numerated Coding Challenge
 
-Joshua Smith
-[Email](joshuawordsmith@gmail.com)
-[Portfolio](https://joshuawordsmith.github.io/portfolio/)
+- Joshua Smith
+- [Email](joshuawordsmith@gmail.com)
+- [Portfolio](https://joshuawordsmith.github.io/portfolio/)
 
 ## Introduction
 
